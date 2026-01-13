@@ -4,16 +4,16 @@
 I’m passionate about building web applications, understanding operating systems, and learning how to secure systems and applications. I enjoy working on hands-on projects and continuously improving my coding and problem-solving skills.<br>
 🚀 Currently learning:<br><br>
 Frontend & backend web development and App Develpoment<br>
-JavaScript and modern web technologies |
+JavaScript and modern web technologies <br>
 DSA With C++ Language<br>
 🛠 Interests:<br><br>
-Web Development |
-App Development |
-AI/ML |
-Operating Systems |
-system design |
-DBMS |
-Open-source contributions
+Web Development <br>
+App Development <br>
+AI/ML <br>
+Operating Systems <br>
+system design <br>
+DBMS <br>
+Open-source contributions <br>
 
 
 ## 🌐 Socials:
