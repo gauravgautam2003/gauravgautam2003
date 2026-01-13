@@ -1,5 +1,16 @@
-# 💫 About Me:
-My name is gaurav gautam and <br>I am software engineer<br>Web Developer with MERN stack<br>App Developer for android<br>
+ # 💫 About Me:
+👋 Hi, I’m Gaurav Gautam
+🎓 B.Tech student | 💻 Web Developer | 🔐 Cybersecurity Enthusiast
+I’m passionate about building web applications, understanding operating systems, and learning how to secure systems and applications. I enjoy working on hands-on projects and continuously improving my coding and problem-solving skills.
+🚀 Currently learning:
+Frontend & backend web development
+JavaScript and modern web technologies
+Core cybersecurity concepts
+🛠 Interests:
+Web Development
+Cybersecurity
+Operating Systems
+Open-source contributions
 
 
 ## 🌐 Socials:
