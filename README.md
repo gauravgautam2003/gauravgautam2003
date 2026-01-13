@@ -1,7 +1,8 @@
  # 💫 About Me:
 <h1>👋 Hi, I’m Gaurav Gautam</h1><br><br>
-🎓 B.Tech student | 💻 Web Developer | App Developer | DSA with C++ <br>
-I’m passionate about building web applications, understanding operating systems, and learning how to secure systems and applications. I enjoy working on hands-on projects and continuously improving my coding and problem-solving skills.<br><br>
+🎓 B.Tech student | 💻 Web Developer | App Developer | DSA with C++ <br><br>
+I like building web and mobile applications and learning how operating systems work. I’m also interested in securing systems and applications. I enjoy working on hands-on projects and improving my coding and problem-solving skills.<br>
+I am learning Web Development, App Development, DSA using C++, AI/ML, and creating Generative and Agentic AI solutions. I believe in learning by practice and building real-world projects..<br><br>
 🚀 Currently learning:<br>
 Frontend & backend web development and App Develpoment<br>
 JavaScript and modern web technologies <br>
