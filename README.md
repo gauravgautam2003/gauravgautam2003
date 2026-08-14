@@ -26,7 +26,7 @@ I am also exploring AI/ML concepts, generative AI solutions, and modern software
 - Next.js & Modern React Ecosystem 
 - Scalable Backend Architecture 
 - Data Structures & Algorithms with C++ 
-- AI/ML & Generative AI 
+- AI Integration with LangChain, LangGraph & RAG
 - System Design Fundamentals
 
   
