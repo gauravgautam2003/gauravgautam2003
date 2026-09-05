@@ -4,7 +4,7 @@
 ## <h1 align="center">Hi, I’m Gaurav Gautam.</h1>
 
 
-<p align="center"> 🎓 B.Tech CSE Student • 💻 Full Stack + AI Integration Developer • 🚀 MERN Stack Enthusiast 
+<p align="center"> 🎓 B.Tech CSE Student • Software Engineer + 💻 Full Stack + AI Integration Developer • 🚀 MERN Stack Enthusiast 
 </p>
 
 
@@ -15,7 +15,7 @@ I am a passionate and detail-oriented Full Stack + AI Integration Developer curr
 
 My primary focus is on the MERN stack, RESTful APIs, authentication systems, and creating clean, user-friendly digital experiences. I enjoy solving real-world problems through hands-on projects and continuously improving my development and problem-solving skills.
 
-I am also exploring LangChain, LangGraph, LAG, Redis, Docker, CI/CD Pipeline, Agentic AI and modern software engineering practices while strengthening my understanding of Operating Systems, DBMS, OOPs, and System Design.
+I am also exploring LangChain, LangGraph, RAG, Redis, Docker, CI/CD Pipeline, Agentic AI and modern software engineering practices while strengthening my understanding of Operating Systems, DBMS, OOPs, and System Design.
 
 
 ---
