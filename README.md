@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/gauravgautam2003">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Gaurav%20Gautam" alt="Hello! I&#39;m Gaurav Gautam" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A545D9&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Gaurav%20Gautam" alt="Hello! I&#39;m Gaurav Gautam" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=685&height=44&lines=Software%20engineer%20with%20Mern%20Stack%20Developer;AI%20Integration" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a171f7&center=true&vCenter=true&width=685&height=44&lines=Software%20engineer%20with%20Mern%20Stack%20Developer;AI%20Integration" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
