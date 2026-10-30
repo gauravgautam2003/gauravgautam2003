@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gauravgautam2003">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A545D9&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Gaurav%20Gautam" alt="Hello! I&#39;m Gaurav Gautam" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a171f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Gaurav%20Gautam" alt="Hello! I&#39;m Gaurav Gautam" />
   </a>
 </p>
 
